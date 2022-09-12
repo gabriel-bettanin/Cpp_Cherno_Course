@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bettanin/cppdev/header_files/build",
+  "command": "/usr/bin/g++     -Wall -Werror -std=c++14 -g   -o CMakeFiles/header_files.dir/src/Log.cpp.o -c /home/bettanin/cppdev/header_files/src/Log.cpp",
+  "file": "/home/bettanin/cppdev/header_files/src/Log.cpp"
+},
+{
+  "directory": "/home/bettanin/cppdev/header_files/build",
+  "command": "/usr/bin/g++     -Wall -Werror -std=c++14 -g   -o CMakeFiles/header_files.dir/src/main.cpp.o -c /home/bettanin/cppdev/header_files/src/main.cpp",
+  "file": "/home/bettanin/cppdev/header_files/src/main.cpp"
+}
+]
