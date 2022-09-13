@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wall -Werror -std=c++14 -g   CMakeFiles/debug.dir/src/Log.cpp.o CMakeFiles/debug.dir/src/main.cpp.o  -o debug 

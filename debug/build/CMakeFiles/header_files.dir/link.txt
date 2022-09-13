@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wall -Werror -std=c++14 -g   CMakeFiles/header_files.dir/src/main.cpp.o  -o header_files 

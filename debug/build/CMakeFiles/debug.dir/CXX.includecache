@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bettanin/cppdev/debug/src/Log.h
+
+/home/bettanin/cppdev/debug/src/main.cpp
+iostream
+-
+Log.h
+/home/bettanin/cppdev/debug/src/Log.h
+
