@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/bettanin/cppdev/loops and controls/build",
+  "command": "/usr/bin/g++     -Wall -Werror -std=c++14 -g   -o CMakeFiles/loop_and_controls.dir/src/Log.cpp.o -c \"/home/bettanin/cppdev/loops and controls/src/Log.cpp\"",
+  "file": "/home/bettanin/cppdev/loops and controls/src/Log.cpp"
+},
+{
+  "directory": "/home/bettanin/cppdev/loops and controls/build",
+  "command": "/usr/bin/g++     -Wall -Werror -std=c++14 -g   -o CMakeFiles/loop_and_controls.dir/src/main.cpp.o -c \"/home/bettanin/cppdev/loops and controls/src/main.cpp\"",
+  "file": "/home/bettanin/cppdev/loops and controls/src/main.cpp"
+}
+]
