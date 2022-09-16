@@ -1,0 +1,3 @@
+/home/bettanin/cppdev/conditions/build/CMakeFiles/rebuild_cache.dir
+/home/bettanin/cppdev/conditions/build/CMakeFiles/edit_cache.dir
+/home/bettanin/cppdev/conditions/build/CMakeFiles/conditions.dir

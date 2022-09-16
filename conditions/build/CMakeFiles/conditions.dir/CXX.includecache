@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bettanin/cppdev/conditions/src/Log.h
+
+/home/bettanin/cppdev/conditions/src/main.cpp
+iostream
+-
+Log.h
+/home/bettanin/cppdev/conditions/src/Log.h
+string.h
+-
+
