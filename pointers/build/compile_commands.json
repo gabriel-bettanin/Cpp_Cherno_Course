@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/bettanin/cppdev/pointers/build",
+  "command": "/usr/bin/g++     -Wall -Werror -std=c++14 -g   -o CMakeFiles/pointers.dir/src/main.cpp.o -c /home/bettanin/cppdev/pointers/src/main.cpp",
+  "file": "/home/bettanin/cppdev/pointers/src/main.cpp"
+}
+]

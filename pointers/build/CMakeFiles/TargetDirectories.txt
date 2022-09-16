@@ -1,0 +1,3 @@
+/home/bettanin/cppdev/pointers/build/CMakeFiles/rebuild_cache.dir
+/home/bettanin/cppdev/pointers/build/CMakeFiles/edit_cache.dir
+/home/bettanin/cppdev/pointers/build/CMakeFiles/pointers.dir
