@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/bettanin/cppdev/inheritance/build",
+  "command": "/usr/bin/g++     -Wall -Werror -std=c++14 -g   -o CMakeFiles/inheritance.dir/src/main.cpp.o -c /home/bettanin/cppdev/inheritance/src/main.cpp",
+  "file": "/home/bettanin/cppdev/inheritance/src/main.cpp"
+}
+]

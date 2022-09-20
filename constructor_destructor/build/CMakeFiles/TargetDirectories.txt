@@ -1,0 +1,3 @@
+/home/bettanin/cppdev/constructor/build/CMakeFiles/rebuild_cache.dir
+/home/bettanin/cppdev/constructor/build/CMakeFiles/edit_cache.dir
+/home/bettanin/cppdev/constructor/build/CMakeFiles/constructor_destructor.dir

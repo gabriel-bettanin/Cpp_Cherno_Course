@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/bettanin/cppdev/enums/build",
+  "command": "/usr/bin/g++     -Wno-unused-variable -Wall -Werror -std=c++14 -g   -o CMakeFiles/enum.dir/src/main.cpp.o -c /home/bettanin/cppdev/enums/src/main.cpp",
+  "file": "/home/bettanin/cppdev/enums/src/main.cpp"
+}
+]

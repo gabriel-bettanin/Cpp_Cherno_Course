@@ -1,0 +1,3 @@
+/home/bettanin/cppdev/enums/build/CMakeFiles/rebuild_cache.dir
+/home/bettanin/cppdev/enums/build/CMakeFiles/edit_cache.dir
+/home/bettanin/cppdev/enums/build/CMakeFiles/enum.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/bettanin/cppdev/class/build",
+  "command": "/usr/bin/g++     -Wno-unused-variable -Wall -Werror -std=c++14 -g   -o CMakeFiles/class.dir/src/main.cpp.o -c /home/bettanin/cppdev/class/src/main.cpp",
+  "file": "/home/bettanin/cppdev/class/src/main.cpp"
+}
+]
