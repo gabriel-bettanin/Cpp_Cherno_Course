@@ -1,7 +1,7 @@
 [
 {
-  "directory": "/home/bettanin/cppdev/classes/build",
-  "command": "/usr/bin/g++     -Wall -Werror -std=c++14 -g   -o CMakeFiles/classes_and_structs.dir/src/main.cpp.o -c /home/bettanin/cppdev/classes/src/main.cpp",
-  "file": "/home/bettanin/cppdev/classes/src/main.cpp"
+  "directory": "/home/bettanin/cppdev/classes_and_structs/build",
+  "command": "/usr/bin/g++     -Wall -Werror -std=c++14 -g   -o CMakeFiles/classes_and_structs.dir/src/main.cpp.o -c /home/bettanin/cppdev/classes_and_structs/src/main.cpp",
+  "file": "/home/bettanin/cppdev/classes_and_structs/src/main.cpp"
 }
 ]

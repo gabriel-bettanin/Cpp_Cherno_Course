@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/bettanin/cppdev/strings/build",
+  "command": "/usr/bin/g++     -Wno-unused-variable -Wall -Werror -std=c++14 -g   -o CMakeFiles/strings.dir/src/main.cpp.o -c /home/bettanin/cppdev/strings/src/main.cpp",
+  "file": "/home/bettanin/cppdev/strings/src/main.cpp"
+}
+]

@@ -1,4 +1,4 @@
-# Install script for directory: /home/bettanin/cppdev/classes
+# Install script for directory: /home/bettanin/cppdev/classes_and_structs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/bettanin/cppdev/classes/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/bettanin/cppdev/classes_and_structs/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

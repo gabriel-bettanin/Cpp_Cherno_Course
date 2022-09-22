@@ -26,7 +26,7 @@
 					[
 						0
 					],
-					"name" : "classes_and_structs",
+					"name" : "strings",
 					"targetIndexes" : 
 					[
 						0
@@ -37,9 +37,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "classes_and_structs::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-classes_and_structs-Debug-6032f878a362c749a21b.json",
-					"name" : "classes_and_structs",
+					"id" : "strings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-strings-Debug-1351078820cba0b076c5.json",
+					"name" : "strings",
 					"projectIndex" : 0
 				}
 			]
@@ -48,8 +48,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/bettanin/cppdev/classes/build",
-		"source" : "/home/bettanin/cppdev/classes"
+		"build" : "/home/bettanin/cppdev/strings/build",
+		"source" : "/home/bettanin/cppdev/strings"
 	},
 	"version" : 
 	{

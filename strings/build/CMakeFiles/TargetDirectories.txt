@@ -1,0 +1,3 @@
+/home/bettanin/cppdev/strings/build/CMakeFiles/edit_cache.dir
+/home/bettanin/cppdev/strings/build/CMakeFiles/rebuild_cache.dir
+/home/bettanin/cppdev/strings/build/CMakeFiles/strings.dir

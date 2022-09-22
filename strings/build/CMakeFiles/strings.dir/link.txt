@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wno-unused-variable -Wall -Werror -std=c++14 -g   CMakeFiles/strings.dir/src/main.cpp.o  -o strings 

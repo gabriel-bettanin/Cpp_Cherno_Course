@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/bettanin/cppdev/classes/src/main.cpp" "/home/bettanin/cppdev/classes/build/CMakeFiles/classes_and_structs.dir/src/main.cpp.o"
+  "/home/bettanin/cppdev/classes_and_structs/src/main.cpp" "/home/bettanin/cppdev/classes_and_structs/build/CMakeFiles/classes_and_structs.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -135,8 +135,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/bettanin/cppdev/classes/build",
-		"source" : "/home/bettanin/cppdev/classes"
+		"build" : "/home/bettanin/cppdev/const/build",
+		"source" : "/home/bettanin/cppdev/const"
 	},
 	"version" : 
 	{
